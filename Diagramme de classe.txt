@@ -1,0 +1,34 @@
+Dylan Goarant
+
+
+PLAYER
+
+noms
+scores chanson 1
+scores chanson 2
+scores chanson 3 
+scores chanson 4
+scores chanson 5
+
+calcul de score
+enregistrement du score  
+remplacemment du meilleur score (si supérieur au dernier meilleur score du Player)
+calcul de la moyenne de score 
+calcul du score total
+affichage du numéro de la chanson qui a obtenu le meilleur score 
+affichage du pire score
+ajout d un score
+
+KARAOKE
+
+nombres de players
+nombres de chansons
+Affichage nom chanson
+
+
+
+ajout ou suppressionde player
+visualisation du meilleur score, le meilleur score total
+visualisation du meilleur score total
+visualisation du meilleur score toutes chansons confondues
+visualisation de la meilleur moyenne
